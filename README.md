@@ -1,4 +1,4 @@
-# Digits-of-pi
+# Digits of pi
 Visualization of the first 200 digits of pi in circos
 
 ## License
