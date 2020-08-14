@@ -1,7 +1,7 @@
 # Overview
 This repository contains data and scripts for visualization of the first 200 digits of π
 
-![GitHub Logo](/images/logo.png)
+![π](https://github.com/SMUAbdullah/digits_of_pi/blob/master/image/pi.png)
 
 ## Contents
 The image can be reproduced via the file [run_pi.sh](https://github.com/SMUAbdullah/digits_of_pi/blob/master/src/run_pi). For editing the properties of the image, the script [ideogram_gen_pi.py](https://github.com/SMUAbdullah/digits_of_pi/blob/master/src/ideogram_gen_pi.py), and the configuration files [pi.conf](https://github.com/SMUAbdullah/digits_of_pi/blob/master/src/pi.conf) and [pi_ideogram.conf](https://github.com/SMUAbdullah/digits_of_pi/blob/master/src/pi_ideogram.conf) can be modified
