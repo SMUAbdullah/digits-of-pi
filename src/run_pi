@@ -2,4 +2,4 @@
 
 echo "Creating image pi.png and writing report to run.out."
 
-/local1/staff/ee/smuabdullah/Time_Series/05.04_Apr/15-Apr-2020/circos-0.69/bin/circos -conf pi.conf -debug_group summary,timer > run.out
+circos -conf pi.conf -debug_group summary,timer > run.out
