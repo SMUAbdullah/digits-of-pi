@@ -1,4 +1,4 @@
-# Digits of pi
+# Digits of \pi
 This repository contains data and scripts for visualization of the first 200 digits of pi
 
 ## Contents
