@@ -22,4 +22,4 @@ Brewer, Cynthia A., 200x. http://www.ColorBrewer.org accessed *10-August-2020*.
 
 ## Feedback and troubleshooting
 
-For queries or comments, please email at [umer_973@hotmail.com](umer_973@hotmail.com)
+For queries or comments, please email at [umer_973@hotmail.com](mailto:umer_973@hotmail.com)
