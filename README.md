@@ -5,7 +5,7 @@ This repository contains data and scripts for visualization of the first 200 dig
 Scripts for generating and the ideogram files can be found in the scripts directory
 
 ## Required software
-> [Python 3](https://www.python.org/downloads/) or [MATLAB](https://www.mathworks.com/products/get-matlab.html)
+> [Python 3](https://www.python.org/downloads/)
 
 > [Circos](http://circos.ca/software/download/)
 
