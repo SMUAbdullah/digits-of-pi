@@ -8,6 +8,7 @@ The image can be reproduced via the file [run_pi.sh](https://github.com/SMUAbdul
 
 ## Required software
 > [Circos](http://circos.ca/software/download/) (required for generating the image from the provided files)
+
 > [Python 3](https://www.python.org/downloads/) (Optional: only required for editing the properties of the image)
 
 
