@@ -7,6 +7,9 @@
 # function call
 # python ideogram_gen_pi.py
 
+# Author: SMU Abdullah
+# Email: umer_973@hotmail.com
+
 import time
 import os
 
