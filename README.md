@@ -7,9 +7,9 @@ This repository contains data and scripts for visualization of the first 200 dig
 The image can be reproduced via the file [run_pi.sh](https://github.com/SMUAbdullah/digits_of_pi/blob/master/src/run_pi). For editing the properties of the image, the script [ideogram_gen_pi.py](https://github.com/SMUAbdullah/digits_of_pi/blob/master/src/ideogram_gen_pi.py), and the configuration files [pi.conf](https://github.com/SMUAbdullah/digits_of_pi/blob/master/src/pi.conf) and [pi_ideogram.conf](https://github.com/SMUAbdullah/digits_of_pi/blob/master/src/pi_ideogram.conf) can be modified
 
 ## Required software
-> [Python 3](https://www.python.org/downloads/)
+> [Circos](http://circos.ca/software/download/) (required for generating the image from the provided files)
+> [Python 3](https://www.python.org/downloads/) (Optional: only required for editing the properties of the image)
 
-> [Circos](http://circos.ca/software/download/)
 
 ## Operating system
 All scripts were written and tested on a Linux based Operating System
