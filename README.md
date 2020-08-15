@@ -1,5 +1,5 @@
 # Overview
-This repository contains data and scripts for visualization of the first 200 digits of π in a [circos](http://circos.ca) plot. The reading direction is clockwise from the top in each row. The rows progress towards the center of the circle
+This repository contains scripts for visualizing of the first 200 digits of π in a [circos](http://circos.ca) plot. The reading direction is clockwise from the top in each row. The rows progress towards the center of the circle
 
 ![π](https://github.com/SMUAbdullah/digits_of_pi/blob/master/image/pi.png)
 
