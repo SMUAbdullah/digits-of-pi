@@ -33,7 +33,7 @@ color=["117,107,177",
 
 numdigits=200 # number of digits to use
 numrows=4 # number of rows in the plot
-digitsperfile=numdigits/numrows
+digitsperfile=int(numdigits/numrows)
 
 foutfile=open(mainoutdir+'/pi.txt','w')
 for coliter in range(0,digitsperfile):
